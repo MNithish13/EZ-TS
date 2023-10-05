@@ -1,1 +1,0 @@
-print([chr(i) for i in range(3077, 3200)])
